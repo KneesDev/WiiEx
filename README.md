@@ -1,2 +1,28 @@
-# WiiEx
-WiiEx is a corrupted Wii app which shows a message when its banner is clicked.
+![Logo](https://i.imgur.com/jRlh98P.png)
+
+# WiiEx by KneesDev
+
+WiiEx is a **corrupted Wii app** which shows a message when its banner is clicked.
+
+You can use it to **prank your friends** or ***mess around*** **with your console**.
+
+## Usage Demo
+
+![Demo Animation](https://i.imgur.com/taOz8vr.gif)
+
+## Installation
+
+You can install WiiEx using **a WAD file which can be downloaded from the link below**.
+
+If you want to **install WiiEx in a real console**, then you'll need to **load the file from an SD Card**.
+
+However, the process will be much easier by **installation in an emulator** like [Dolphin](https://dolphin-emu.org/download/).
+
+## Download Link
+
+You can [click here](https://drive.google.com/uc?export=download&id=1rexKFyYjkMLGm4rFl4MQ7L0S5BmsQvyL) to download the **latest WiiEx WAD file**.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
