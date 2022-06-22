@@ -14,7 +14,7 @@ You can use it to **prank your friends** or ***mess around*** **with your consol
 
 You can install WiiEx using **a WAD file which can be downloaded from the link below**.
 
-If you want to **install WiiEx in a real console**, then you'll need to **load the file from an SD Card**.
+If you want to **install WiiEx in a real console**, then you'll need to **do some weird homebrew stuff**.
 
 However, the process will be much easier by **installation in an emulator** like [Dolphin](https://dolphin-emu.org/download/).
 
