@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/jRlh98P.png)
+![WiiEx Logo](https://i.imgur.com/jRlh98P.png)
 
 # WiiEx by KneesDev
 
@@ -8,7 +8,7 @@ You can use it to **prank your friends** or ***mess around*** **with your consol
 
 ## Usage Demo
 
-![Demo Animation]((https://i.giphy.com/media/WQZ50XkqSCN7gHc7Kd/giphy.gif)
+![Demo Animation](https://i.giphy.com/media/WQZ50XkqSCN7gHc7Kd/giphy.gif)
 
 ## Installation
 
